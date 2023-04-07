@@ -6,6 +6,9 @@ To use the calculator, simply run the calculator.py file.
 Dependencies:
 The calculator requires the Tkinter library, which should be included with most Python installations.
 
+Development:
+To make changes to the calculator, modify the calculator.py file.
+
 Buttons:
 Numbers: Click on the buttons with numbers to input them into the calculator.
 Operators: Click on the buttons with operators (+, -, *, /, %) to perform calculations.
