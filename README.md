@@ -31,3 +31,6 @@ step12:Create a Tk() instance named root.
 step13:Create an instance of the Calculator class named calculator with root as its parameter.
 step14:Call the mainloop() method of the root window to start the event loop.
 
+Credits
+The calculator was developed by Sanniboina Deepika.
+
