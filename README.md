@@ -1,9 +1,9 @@
-A simple calculator GUI built using Python and the Tkinter library.
+#A simple calculator GUI built using Python and the Tkinter library.
 
-Usage:
+#Usage:
 To use the calculator, simply run the calculator.py file.
 
-Dependencies:
+#Dependencies:
 The calculator requires the Tkinter library, which should be included with most Python installations.
 
 Development:
