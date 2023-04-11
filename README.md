@@ -32,5 +32,5 @@ step13:Create an instance of the Calculator class named calculator with root as 
 step14:Call the mainloop() method of the root window to start the event loop.
 
 # Credits:
-The calculator was developed by Sanniboina Deepika.
+The GUI calculator was developed by Sanniboina Deepika.
 
