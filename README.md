@@ -1,21 +1,21 @@
-#A simple calculator GUI built using Python and the Tkinter library.
+# A simple calculator GUI built using Python and the Tkinter library.
 
-#Usage:
+# Usage:
 To use the calculator, simply run the calculator.py file.
 
-#Dependencies:
+# Dependencies:
 The calculator requires the Tkinter library, which should be included with most Python installations.
 
-Development:
+# Development:
 To make changes to the calculator, modify the calculator.py file.
 
-Buttons:
+# Buttons:
 Numbers: Click on the buttons with numbers to input them into the calculator.
 Operators: Click on the buttons with operators (+, -, *, /, %) to perform calculations.
 Clear: Click on the C button to clear the calculator's input.
 Equal: Click on the = button to evaluate the calculator's input and display the result.
 
-Algorithm:
+# Algorithm:
 step1:Import the tkinter library.
 step2:Define a class named Calculator that takes in a master parameter.
 step3:Initialize the class by setting the master parameter to the instance variable master and setting the title of the window to "Calculator".
@@ -31,6 +31,6 @@ step12:Create a Tk() instance named root.
 step13:Create an instance of the Calculator class named calculator with root as its parameter.
 step14:Call the mainloop() method of the root window to start the event loop.
 
-Credits:
+# Credits:
 The calculator was developed by Sanniboina Deepika.
 
